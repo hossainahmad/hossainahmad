@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Hossain Ahmad
 
-### 💻 Assistant Programmer · Aspiring Full-Stack Web Developer
+### 💻 Aspiring Full-Stack Web Developer
 
 <p>
   <a href="https://github.com/hossainahmad">
