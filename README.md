@@ -29,7 +29,7 @@
 
 ## 👋 About Me
 
-I'm **Hossain Ahmad** — an **Assistant Programmer at Gazipur City Corporation** and an aspiring **Full-Stack Web Developer**.
+I'm **Hossain Ahmad** — an **Assistant Programmer at Gazipur City Corporation** and an Aspiring **Full-Stack Web Developer**.
 
 I enjoy building modern, responsive, and user-friendly web applications. I'm continuously strengthening my fundamentals, learning modern technologies, and turning what I learn into practical projects.
 
@@ -62,7 +62,7 @@ I enjoy building modern, responsive, and user-friendly web applications. I'm con
 - 🌐 Modern Frontend Development
 - 🔧 Git & GitHub
 - 🧩 Building real-world projects
-- 🧠 Problem solving and clean code
+- 🧠 Problem-solving and clean code
 
 ### My Learning Path
 
