@@ -74,26 +74,6 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/hossainahmad">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hossainahmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    alt="Hossain Ahmad's GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/hossainahmad">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainahmad&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Hossain Ahmad's Top Languages"
-  />
-</a>
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -150,7 +130,7 @@ A responsive conference website created as a frontend development project.
 
 > **Don't just learn a technology — build something with it.**
 
-I believe becoming a better developer comes from **consistent learning, hands-on projects, debugging, problem solving, and continuous improvement**.
+I believe becoming a better developer comes from **consistent learning, hands-on projects, debugging, problem-solving, and continuous improvement**.
 
 ---
 
@@ -158,7 +138,7 @@ I believe becoming a better developer comes from **consistent learning, hands-on
 
 <p align="center">
 
-<a href="mailto:hossain.ahmad.dev@gmail.com">
+<a href="mailto:hossain.ahmad38@gmail.com">
   <img src="https://img.shields.io/badge/Email-hossain.ahmad.dev%40gmail.com-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
