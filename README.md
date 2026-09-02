@@ -88,9 +88,6 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
 
 ---
 
-## 📈 Contribution Activity
-
----
 
 ## 🚀 Featured Project
 
