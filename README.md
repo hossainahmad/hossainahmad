@@ -126,7 +126,7 @@ I believe becoming a better developer comes from **consistent learning, hands-on
 <p align="center">
 
 <a href="mailto:hossain.ahmad38@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hossain.ahmad.dev%40gmail.com-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-hossain.ahmad38%40gmail.com-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/hossain21/">
