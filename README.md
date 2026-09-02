@@ -74,8 +74,6 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
 
 ---
 
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
