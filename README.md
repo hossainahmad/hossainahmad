@@ -4,6 +4,27 @@
 
 </div>
 
+<div align="center">
+
+# 👋 Hi, I'm Hossain Ahmad
+
+### 💻 Assistant Programmer · Aspiring Full-Stack Web Developer
+
+<p>
+  <a href="https://github.com/hossainahmad">
+    <img src="https://img.shields.io/github/followers/hossainahmad?label=Followers&style=for-the-badge" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/hossainahmad">
+    <img src="https://komarev.com/ghpvc/?username=hossainahmad&style=for-the-badge&color=blue" alt="Profile Views">
+  </a>
+</p>
+
+<p>
+  <i>Learning. Building. Improving — one project at a time.</i>
+</p>
+
+</div>
+
 ---
 
 ## 👋 About Me
