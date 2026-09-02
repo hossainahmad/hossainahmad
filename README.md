@@ -90,14 +90,6 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/hossainahmad">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainahmad&theme=github-compact&hide_border=true&area=true" alt="Hossain Ahmad's Contribution Graph">
-</a>
-
-</div>
-
 ---
 
 ## 🚀 Featured Project
