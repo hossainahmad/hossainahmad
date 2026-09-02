@@ -1,111 +1,71 @@
 <div align="center">
 
-# 👋 Hi, I'm Hossain Ahmad
-
-### 💻 Assistant Programmer · Aspiring Full-Stack Web Developer
-
-<p>
-  <a href="https://github.com/hossainahmad">
-    <img src="https://img.shields.io/github/followers/hossainahmad?label=Followers&style=for-the-badge" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/hossainahmad">
-    <img src="https://komarev.com/ghpvc/?username=hossainahmad&style=for-the-badge&color=blue" alt="Profile Views">
-  </a>
-</p>
-
-<p>
-  <i>Learning. Building. Improving — one project at a time.</i>
-</p>
+<img src="./github-banner.jpg" alt="Hossain Ahmad - GitHub Profile Banner" width="100%">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Hossain Ahmad**, an **Assistant Programmer at Gazipur City Corporation** and an aspiring **Full-Stack Web Developer**.
+Hi, I'm **Hossain Ahmad** — an **Assistant Programmer at Gazipur City Corporation** and an aspiring **Full-Stack Web Developer**.
 
-I enjoy turning ideas into useful web experiences and continuously improving my programming and problem-solving skills. I'm particularly interested in modern web development and love learning how different technologies work together to build real-world applications.
+I enjoy building modern, responsive, and user-friendly web applications. I'm continuously strengthening my fundamentals, learning modern technologies, and turning what I learn into practical projects.
 
-I'm currently strengthening my foundation in **JavaScript, TypeScript, and React**, while continuing to build projects and improve my development workflow.
-
-> 🎯 **My goal:** Become a professional full-stack developer by consistently learning, building real-world projects, and writing better code.
-
----
-
-## 🚀 What I'm Currently Learning
-
-- 🟨 JavaScript — ES6+ and modern JavaScript
-- 🔷 TypeScript
-- ⚛️ React
-- 🌐 Modern Frontend Development
-- 🔧 Git & GitHub
-- 🧩 Building real-world projects
-- 🧠 Problem solving & clean code
+- 💻 Currently focused on **JavaScript, TypeScript, and React**
+- 🌱 Working toward becoming a **professional Full-Stack Developer**
+- 🧠 Interested in clean code, problem-solving, and real-world applications
+- 🚀 Learning by building projects and improving every day
+- 📍 Gazipur, Dhaka, Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML CSS JavaScript TypeScript React"></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Technologies">
-</p>
+### Backend & Database
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB"></p>
 
-### 🔧 Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-</p>
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma"></p>
 
 ---
 
-## 📚 My Learning Journey
+## 📚 Currently Learning
+
+- 🟨 Advanced JavaScript / ES6+
+- 🔷 TypeScript
+- ⚛️ React
+- 🌐 Modern Frontend Development
+- 🔧 Git & GitHub
+- 🧩 Building real-world projects
+- 🧠 Problem-solving and clean code
+
+### My Learning Path
 
 ```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-ES6+
-  ↓
-TypeScript
-  ↓
-React
-  ↓
-Full-Stack Web Development
+HTML → CSS → JavaScript → ES6+ → TypeScript → React
+                                             ↓
+                                   Full-Stack Development
 ```
-
-I'm focusing on understanding the fundamentals deeply instead of simply learning frameworks.
-
----
-
-## 🚀 Featured Project
-
-### 📢 DevConf — Conference Landing Page
-
-A responsive conference website built as a frontend development project.
-
-**Tech used:** HTML · CSS
-
-🔗 **Live Demo:**  
-https://hossainahmad.github.io/A01-DevConf/
-
-💻 **Source Code:**  
-https://github.com/hossainahmad/A01-DevConf
 
 ---
 
 ## 📊 GitHub Statistics
 
+> **Note:** The public `github-readme-stats.vercel.app` service can occasionally fail because of GitHub API rate limits or traffic. These cards use the standard supported endpoints; for maximum reliability, self-hosting the stats service is recommended.
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hossainahmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Hossain's GitHub Stats"/>
+<a href="https://github.com/hossainahmad">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hossainahmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Hossain Ahmad's GitHub Stats">
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainahmad&layout=compact&langs_count=8&hide_border=true" alt="Hossain's Top Languages"/>
+<a href="https://github.com/hossainahmad">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainahmad&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Hossain Ahmad's Top Languages">
+</a>
 
 </div>
 
@@ -115,23 +75,40 @@ https://github.com/hossainahmad/A01-DevConf
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hossainahmad&hide_border=true" alt="Hossain's GitHub Streak"/>
+<a href="https://github.com/hossainahmad">
+  <img src="https://streak-stats.demolab.com?user=hossainahmad&theme=transparent&hide_border=true" alt="Hossain Ahmad's GitHub Streak">
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainahmad&hide_border=true" alt="Hossain's Contribution Graph"/>
+<a href="https://github.com/hossainahmad">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainahmad&theme=github-compact&hide_border=true&area=true" alt="Hossain Ahmad's Contribution Graph">
+</a>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 🚀 Featured Project
+
+### 📢 DevConf — Conference Landing Page
+
+A responsive conference website created as a frontend development project.
+
+**Tech:** HTML · CSS
+
+- 🌐 [Live Demo](https://hossainahmad.github.io/A01-DevConf/)
+- 💻 [Source Code](https://github.com/hossainahmad/A01-DevConf)
+
+---
+
+## 🎯 My 2026 Goals
 
 - [ ] Master modern JavaScript
 - [ ] Become confident with TypeScript
@@ -139,29 +116,35 @@ https://github.com/hossainahmad/A01-DevConf
 - [ ] Build and deploy real-world applications
 - [ ] Improve problem-solving skills
 - [ ] Learn backend development
-- [ ] Become a professional full-stack developer
+- [ ] Become a professional Full-Stack Developer
+- [ ] Contribute to open-source projects
 
 ---
 
-## 💡 My Development Philosophy
+## 💡 Developer Philosophy
 
 > **Don't just learn a technology — build something with it.**
 
-I believe the best way to become a better developer is to combine **consistent learning, hands-on projects, debugging, and continuous improvement**.
+I believe becoming a better developer comes from **consistent learning, hands-on projects, debugging, problem solving, and continuous improvement**.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, building, and connecting with other developers.
-
 <p align="center">
-  <a href="https://github.com/hossainahmad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <!-- Add your LinkedIn link here -->
-  <!-- Add your portfolio link here -->
-  <!-- Add your email here -->
+
+<a href="mailto:hossain.ahmad.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hossain.ahmad.dev%40gmail.com-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/hossain21/">
+  <img src="https://img.shields.io/badge/LinkedIn-hossain21-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/hossainahmad">
+  <img src="https://img.shields.io/badge/GitHub-hossainahmad-6C2BD9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 </p>
 
 ---
