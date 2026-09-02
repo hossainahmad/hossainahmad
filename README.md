@@ -14,7 +14,7 @@ I enjoy building modern, responsive, and user-friendly web applications. I'm con
 
 - 💻 Currently focused on **JavaScript, TypeScript, and React**
 - 🌱 Working toward becoming a **professional Full-Stack Developer**
-- 🧠 Interested in clean code, problem-solving, and real-world applications
+- 🧠 Interested in clean code, problem solving, and real-world applications
 - 🚀 Learning by building projects and improving every day
 - 📍 Gazipur, Dhaka, Bangladesh
 
@@ -41,7 +41,7 @@ I enjoy building modern, responsive, and user-friendly web applications. I'm con
 - 🌐 Modern Frontend Development
 - 🔧 Git & GitHub
 - 🧩 Building real-world projects
-- 🧠 Problem-solving and clean code
+- 🧠 Problem solving and clean code
 
 ### My Learning Path
 
