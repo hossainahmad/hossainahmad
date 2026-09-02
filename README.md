@@ -29,13 +29,13 @@
 
 ## 👋 About Me
 
-Hi, I'm **Hossain Ahmad** — an **Assistant Programmer at Gazipur City Corporation** and an aspiring **Full-Stack Web Developer**.
+I'm **Hossain Ahmad** — an **Assistant Programmer at Gazipur City Corporation** and an aspiring **Full-Stack Web Developer**.
 
 I enjoy building modern, responsive, and user-friendly web applications. I'm continuously strengthening my fundamentals, learning modern technologies, and turning what I learn into practical projects.
 
 - 💻 Currently focused on **JavaScript, TypeScript, and React**
 - 🌱 Working toward becoming a **professional Full-Stack Developer**
-- 🧠 Interested in clean code, problem solving, and real-world applications
+- 🧠 Interested in clean code, problem-solving, and real-world applications
 - 🚀 Learning by building projects and improving every day
 - 📍 Gazipur, Dhaka, Bangladesh
 
@@ -76,16 +76,20 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
 
 ## 📊 GitHub Statistics
 
-> **Note:** The public `github-readme-stats.vercel.app` service can occasionally fail because of GitHub API rate limits or traffic. These cards use the standard supported endpoints; for maximum reliability, self-hosting the stats service is recommended.
-
 <div align="center">
 
 <a href="https://github.com/hossainahmad">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hossainahmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Hossain Ahmad's GitHub Stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hossainahmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    alt="Hossain Ahmad's GitHub Stats"
+  />
 </a>
 
 <a href="https://github.com/hossainahmad">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainahmad&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Hossain Ahmad's Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainahmad&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    alt="Hossain Ahmad's Top Languages"
+  />
 </a>
 
 </div>
