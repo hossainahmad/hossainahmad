@@ -72,7 +72,6 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
                                    Full-Stack Development
 ```
 
----
 
 ## 🔥 GitHub Streak
 
