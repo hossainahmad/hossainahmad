@@ -129,7 +129,7 @@ I believe becoming a better developer comes from **consistent learning, hands-on
 </a>
 
 <a href="www.linkedin.com/in/hossainahmad-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-hossain21-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-hossainahmad-dev-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/hossainahmad">
