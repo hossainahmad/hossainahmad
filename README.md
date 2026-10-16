@@ -128,7 +128,7 @@ I believe becoming a better developer comes from **consistent learning, hands-on
   <img src="https://img.shields.io/badge/Email-hossain.ahmad38%40gmail.com-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/hossain21/">
+<a href="www.linkedin.com/in/hossainahmad-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-hossain21-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
