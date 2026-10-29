@@ -85,20 +85,6 @@ HTML → CSS → JavaScript → ES6+ → TypeScript → React
 
 ---
 
-
-## 🚀 Featured Project
-
-### 📢 DevConf — Conference Landing Page
-
-A responsive conference website created as a frontend development project.
-
-**Tech:** HTML · CSS
-
-- 🌐 [Live Demo](https://hossainahmad.github.io/A01-DevConf/)
-- 💻 [Source Code](https://github.com/hossainahmad/A01-DevConf)
-
----
-
 ## 🎯 My 2026 Goals
 
 - [ ] Master modern JavaScript
